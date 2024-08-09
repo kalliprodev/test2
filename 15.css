@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(42, 188, 205);
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+
+.izle {
+    width: 100%;
+text-align: center;
+
+}
+
+
+.izle input, button {
+    border: solid 1px rebeccapurple;
+    color: blanchedalmond;
+    border-radius: 5px;
+}
+.footer {
+    margin-top: 200px;
+    text-align: center;
+}

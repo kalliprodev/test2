@@ -1,0 +1,52 @@
+* {
+  background-color: rgb(255, 255, 255);
+}ww
+
+h1 {
+  text-align: center;
+}
+
+.list1 {
+  display: flex;
+  justify-content: space-around;
+}
+hr {
+    width:500px;
+}
+h3,
+h2,
+p {
+  border: solid rebeccapurple 1px;
+  color: brown;
+  border-radius: 5px;
+  padding: 10px;
+}
+p {
+  width: 500px;
+}
+
+h3 {
+  width: 20px;
+  text-align: center;
+}
+button {
+  width: 50px;
+  /* height: auto ; */
+  height: 35px;
+  border-radius: 8px;
+  color: tomato;
+  cursor:pointer;
+  background-color: blue;
+  /* border: none; */
+
+}
+
+.list2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.list3 {
+  display: flex;
+  justify-content: space-around;
+}

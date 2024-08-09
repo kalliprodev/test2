@@ -1,0 +1,71 @@
+/* body {
+    color: rebeccapurple;
+} */
+/* 
+h1 {
+    color: rebeccapurple;
+} */
+
+.margin {
+  margin-top: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-bottom: 150px;
+  padding: 25px;
+  color: blue;
+  background-color: red;
+  text-align: center;
+}
+
+.margin2 {
+  margin-top: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-bottom: 150px;
+  padding: 25px;
+  color: blue;
+  background-color: red;
+}
+
+.margin3 {
+  width: 150px;
+  height: 150px;
+  margin: 405px 50px 150px 250px;
+  color: yellow;
+  background-color: tomato;
+  padding: 100px;
+}
+
+.margin3 h1 {
+  background-color: slategray;
+}
+
+.margin4 {
+  width: 300px;
+  height: 300px;
+
+  margin: auto;
+  border: solid 5px red;
+  
+}
+
+.but {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    /* border: none; */
+    width: 150px;
+    height: 55px;
+    /* margin: auto;     */
+    padding: 10px;
+    border: solid 2px rgb(217, 88, 13);
+    border-radius: 15px;
+    cursor: pointer;
+    
+}

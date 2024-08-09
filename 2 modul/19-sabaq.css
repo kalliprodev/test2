@@ -1,0 +1,61 @@
+* {
+    margin-top: 10px;
+}
+
+ 
+div {
+    width: 300px;
+    /* border: 15px solid red; */
+    padding: 50px;
+    margin: 20px;
+}
+
+
+.birlesken {
+    margin: auto;
+    width:100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.bas-bet {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bas{
+    display: flex;
+    justify-content:space-around;
+
+    /* margin-left: 50px; */
+}
+
+.ul {
+    gap: 75px;
+    display: flex;   
+    justify-content: space-between;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.tomengi {
+    margin-top: 150px;
+    margin-left: 70px;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}

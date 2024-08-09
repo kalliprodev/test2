@@ -1,0 +1,27 @@
+
+
+p {
+    border-style: dashed;
+}
+
+p {
+    border-style: dotted;
+}
+
+p {
+    border-style: solid;
+}
+
+p {
+    border: solid rebeccapurple 2px;
+}
+
+
+
+p {
+    border-radius: 25px;
+    color: white;
+}
+
+p
+
